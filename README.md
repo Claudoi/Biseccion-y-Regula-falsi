@@ -23,3 +23,4 @@ La función utilizada para la comparación de ambos métodos es:
 
 ```matlab
 f(x) = exp(0.75 * x) - 3 * sin(1.25 * x)
+```
